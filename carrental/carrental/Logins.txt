@@ -1,0 +1,11 @@
+                         : : : : : Passwords : : : : : 
+
+
+USER :   username :test1@gmail.com
+        password :test123
+
+
+
+ADMIN :  username:admin
+        password:Test@12345 
+
